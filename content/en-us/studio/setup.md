@@ -1,8 +1,10 @@
 ---
-title: Roblox Studio setup
-description: Explains how to install Roblox Studio on your system.
----
-
+title: TITEN ARENA
+description: WOULD YOU WANT TO FIGHT TITENS LIKE GODZILLA AND OTHERS?
+WELL YOU ARE IN THE RIGHT PLACE.
+IN THIS GAME YOU CAN BECOME A TITN OR A PERSON TRYING TO RUN AWAY FROM THE MONSTERS!
+THE TITANS HAVE ABILYITYS LIKE ATOMIC BREATH!
+AND ONE RULE IS TO HAVE FUN!!
 import StudioSystemReqs from '../includes/studio/system-reqs.md'
 
 Create immersive 3D experiences on Roblox with **Roblox Studio**, a free application available on Windows and Mac.
